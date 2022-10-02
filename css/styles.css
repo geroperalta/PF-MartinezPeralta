@@ -6,7 +6,7 @@
   font-family: 'Krona One', sans-serif;
 }
 .hero {
-  background-image: url(/imagenes/fondo.jpg);
+  background: url(/imagenes/fondo.jpg);
   height: 100vh;
   padding-left: 50px;
   padding-right: 50px;
@@ -15,6 +15,6 @@
   color: red;
 }
 .hero1 {
-  background-image: url(/imagenes/fondo.jpg);
+  background: url(/imagenes/fondo.jpg);
   height: 300vh;
 }
