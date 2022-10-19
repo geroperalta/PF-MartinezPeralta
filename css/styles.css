@@ -8,8 +8,7 @@
 body {
   background-image: url(../imagenes/fondo.jpg);
 }
-.hero {
-  
+.hero { 
   height: 100vh;
   padding-left: 50px;
   padding-right: 50px;
@@ -18,6 +17,5 @@ body {
   color: red;
 }
 .hero1 {
-  
   height: 300vh;
 }
