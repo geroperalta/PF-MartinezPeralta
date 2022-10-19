@@ -1,0 +1,31 @@
+@import url("https://fonts.googleapis.com/css2?family=Krona+One&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Krona One", sans-serif;
+}
+*::-moz-selection {
+  background-color: white;
+}
+*::selection {
+  background-color: white;
+}
+
+.hero {
+  height: 100vh;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+.rojo {
+  color: red;
+}
+
+.hero1 {
+  height: 300vh;
+}
+
+body {
+  background-image: url(../imagenes/fondo.jpg);
+}/*# sourceMappingURL=estilos.css.map */
